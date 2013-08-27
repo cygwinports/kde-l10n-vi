@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kde-l10n-vi"
+VERSION=4.8.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Vietnamese translation files"
+DESCRIPTION="KDE Vietnamese translation files"
